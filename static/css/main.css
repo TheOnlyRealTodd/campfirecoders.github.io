@@ -222,6 +222,7 @@ header a:hover {
   display: inline;
   padding: 0px;
   margin: 0px;
+  list-style-position: inside;
 }
 #todd_desc{
   padding: 0px;
