@@ -219,8 +219,15 @@ header a:hover {
 }
 .unorderedList{
   color: white;
+  display: inline;
+  padding: 0px;
+  margin: 0px;
 }
-
+#todd_desc{
+  padding: 0px;
+  margin: 0px;
+  color: white;
+}
 
 
 
